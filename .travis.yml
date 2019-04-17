@@ -1,5 +1,2 @@
 deploy:
   provider: azure_web_apps
-  username: $szymonsob1
-  password: 9wus0Fo6qlk8ue9yidbJKqb4adbgHKKhiozhX0tZfht9DqiQ2ZxuWBAe9a1L
-  site: https://szymonsob1.azurewebsites.net/
