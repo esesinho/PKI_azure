@@ -1,0 +1,7 @@
+language: java
+script: 
+- cd MyWebApp
+- ant build
+deploy: 
+  provider: azure_web_apps
+

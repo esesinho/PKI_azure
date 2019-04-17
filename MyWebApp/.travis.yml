@@ -1,5 +1,0 @@
-deploy: 
-  provider: azure_web_apps
-language: java
-script: "ant build"
-
