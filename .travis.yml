@@ -1,5 +1,5 @@
+cd MyWebApp
 language: java
 script: ant build
-ant -file {MyWebApp/build.xml} -v
 deploy:
   provider: azure_web_apps
