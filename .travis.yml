@@ -2,6 +2,7 @@
 deploy: 
   provider: azure_web_apps
 language: java
+install: ant deps
 script: 
   - "cd MyWebApp"
   - "ant build"
